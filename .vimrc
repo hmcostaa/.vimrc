@@ -1,3 +1,4 @@
+syntax on
 set tabstop=4
 set softabstop=4
 set shiftwidth=4
