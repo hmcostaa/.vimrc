@@ -24,6 +24,7 @@ call plug#begin()
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 
+Plug 'jiangmiao/auto-pairs'
 Plug 'gruvbox-community/gruvbox'
 
 call plug#end()
