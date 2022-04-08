@@ -1,0 +1,12 @@
+set tabstop=4
+set softabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+set relativenumber
+set nu
+set noerrorbells
+set nowrap
+set incsearch
+set scrolloff=8
+set signcolumn=yes
