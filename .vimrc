@@ -10,3 +10,12 @@ set nowrap
 set incsearch
 set scrolloff=8
 set signcolumn=yes
+
+
+call plug#begin('~/.vim/plugged')
+
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+
+
+call plug#end()
