@@ -11,10 +11,12 @@ set nowrap
 set incsearch
 set smartindent
 set termguicolors
+set complete+=kspell
 
 set scrolloff=8
 set signcolumn=yes
 set colorcolumn=80
+highlight ColorColumn ctermbg=0 guibg=lightred
 
 
 
