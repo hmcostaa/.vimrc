@@ -23,9 +23,6 @@ highlight ColorColumn ctermbg=0 guibg=lightred
 
 call plug#begin()
 
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
-
 Plug 'jiangmiao/auto-pairs'
 Plug 'gruvbox-community/gruvbox'
 
